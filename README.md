@@ -1,11 +1,13 @@
 <div align="center">
 
-# Namaste 🙏, I'm Harshith Kumar Shetty ❤️
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│        Namaste 🙏, I'm Harshith Kumar Shetty ❤️             │
+│                                                             │
+│     DevOps Engineer • Cloud • Kubernetes • CI/CD            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-<h3 style="color:#00C7B7;">
-  A passionate DevOps Engineer focused on automation, CI/CD,
-  cloud infrastructure, Kubernetes, and observability 🚀
-</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
