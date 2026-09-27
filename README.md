@@ -1,6 +1,6 @@
 <div align="center">
 
-# Namaste 🙏, I'm Harshith Doddipalli
+# Namaste 🙏, I'm Harshith Kumar Shetty ❤️
 
 ### A passionate software engineer and an insanely fast learner 🚀
 ### A passionate DevOps Engineer focused on automation, CI/CD, cloud infrastructure, Kubernetes, and observability.
