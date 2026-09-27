@@ -1,12 +1,12 @@
 <div align="center">
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│        Namaste 🙏, I'm Harshith Kumar Shetty ❤️             │
-│                                                             │
-│     DevOps Engineer • Cloud • Kubernetes • CI/CD            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+# Namaste 🙏, I'm Harshith Kumar Shetty ❤️
+
+### ☁️ DevOps Engineer | 🔄 CI/CD | ☸️ Kubernetes | 🏗️ Terraform | 📊 Observability
+
+> Passionate about automation, cloud infrastructure, platform engineering,
+> Kubernetes, CI/CD pipelines, and building reliable systems. 🚀
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
