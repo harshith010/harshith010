@@ -1,102 +1,149 @@
-Hi 👋, I'm Harshith
-Software Developer | SDET | Automation Tester
+<div align="center">
 
-I'm a passionate software developer and QA automation enthusiast from Bangalore, India.
+# Namaste 🙏, I'm Harshith Doddipalli
 
-I enjoy building reliable software, automating repetitive tasks, solving problems, and continuously learning new technologies.
+### A passionate software engineer and an insanely fast learner 🚀
 
-👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)
 
-🔭 Currently working on Software Testing & Automation
+</div>
 
-🌱 Currently learning Advanced Java, Selenium & Automation Frameworks
+---
 
-💻 Interested in Software Development, SDET, QA Automation & DevOps
+## 👨‍💻 About Me
 
-🧪 Passionate about Test Automation and Quality Engineering
+- 🔭 Currently working on **[YOUR CURRENT PROJECT]**
+- 🌱 Currently learning **[YOUR CURRENT TECHNOLOGIES]**
+- 💻 Interested in **Software Development, Automation & Cloud**
+- 🧠 Passionate about learning and building real-world projects
+- 📫 Reach me at **YOUR_EMAIL**
+- 👨‍💻 Check out my projects on **GitHub**
+- 📄 View my professional experience on **LinkedIn**
+- ⚡ Fun fact: **I learn by building things**
 
-📍 Based in Bangalore, India
+---
 
-💬 Ask me about Java, Selenium, Git & GitHub
+# 🛠️ Tech Stack
 
-⚡ Fun fact: I enjoy learning by building real-world projects
+## 💻 Programming Languages
 
-🛠️ Tech Stack
-Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-Testing & Automation
+## 🌐 Web Development
 
-Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+## 🧪 Testing & Automation
 
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+## ☁️ Cloud, DevOps & Tools
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-IDEs & Development
+## 🗄️ Databases
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
 
+# 🚀 Featured Projects
 
-🚀 Featured Projects
-🔹 TrailGitQ
+### 🔹 Project Name
 
-A project focused on Git/GitHub and development practice.
+> Short description of what the project does.
 
-👉 View Project
+**Tech:** Java • Selenium • TestNG • Maven
 
-🔹 SDET-29
+[View Project →](YOUR_PROJECT_URL)
 
-Software testing and automation practice using Java.
+---
 
-👉 View Project
+### 🔹 Project Name
 
-🔹 SDET Selenium Framework
+> Short description of what the project does.
 
-Selenium automation framework practice.
+**Tech:** Java • Spring Boot • MySQL
 
-👉 View Project
+[View Project →](YOUR_PROJECT_URL)
 
-🔹 SDET CRM
+---
 
-CRM automation/testing project.
+### 🔹 Project Name
 
-👉 View Project
+> Short description of what the project does.
 
-📊 GitHub Stats
+**Tech:** JavaScript • React • Node.js
 
-🔥 GitHub Streak
+[View Project →](YOUR_PROJECT_URL)
 
-🤝 Connect With Me
+---
 
-💻 GitHub: @harshith010
+# 📊 GitHub Stats
 
-📍 Bangalore, India
+<div align="center">
 
-📧 Email: your-email@example.com
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshith010&show_icons=true&theme=tokyonight&hide_border=true)
 
-💼 LinkedIn: your-linkedin-profile
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshith010&layout=compact&theme=tokyonight&hide_border=true)
 
-📈 What I'm Learning
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- └── Advanced Java
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshith010&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshith010&theme=tokyo-night)
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Software Development
+├── Java
+├── Spring Boot
+├── REST APIs
+└── System Design
 
 Automation
- ├── Selenium
- ├── TestNG
- ├── Page Object Model
- └── Automation Frameworks
+├── Selenium
+├── TestNG
+├── API Testing
+└── Automation Frameworks
 
-Development Tools
- ├── Git
- ├── GitHub
- ├── Git Bash
- └── CI/CD
-
-💙 Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.
-
-⭐ If you find something useful, consider giving the repository a star!
+DevOps
+├── Git
+├── GitHub
+├── Docker
+└── CI/CD
