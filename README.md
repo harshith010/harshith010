@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **[YOUR CURRENT PROJECT]**
-- 🌱 Currently learning **[YOUR CURRENT TECHNOLOGIES]**
+- 🔭 Currently working on **[Yet to fill]**
+- 🌱 Currently learning **[Yet to fill]**
 - 💻 Interested in **Software Development, Automation & Cloud**
 - 🧠 Passionate about learning and building real-world projects
-- 📫 Reach me at **YOUR_EMAIL**
+- 📫 Reach me at **harshithks94@gmail.com**
 - 👨‍💻 Check out my projects on **GitHub**
 - 📄 View my professional experience on **LinkedIn**
 - ⚡ Fun fact: **I learn by building things**
